@@ -2,7 +2,7 @@
 
 [![npm version](https://img.shields.io/npm/v/@firmanpanjiutama12/hello-world.svg)](https://www.npmjs.com/package/@firmanpanjiutama12/hello-world)
 
-##**Description**
+## **<ins>Description</ins>**
 
 Hello World is a simple and lightweight package that provides a friendly greeting to the world.
 
